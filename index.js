@@ -16,6 +16,6 @@ function divide(a,b){
 }
 //increment
 function inc(n){
-  var n = n++
+  n++
   return n
 }
