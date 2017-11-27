@@ -27,5 +27,5 @@ function dec(n){
 //make into integer
 function makeInt(a){
   parseFloat(a)
-  return n
+  return a
 }
