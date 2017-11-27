@@ -26,7 +26,7 @@ function dec(n){
 }
 //make into integer
 function makeInt(n){
-  parseFloat(n)
+  parseInt(n)
   return n
 }
 //floating-point
