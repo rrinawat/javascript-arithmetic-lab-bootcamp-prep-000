@@ -25,7 +25,7 @@ function dec(n){
   return n
 }
 //make into integer
-function makeInt(n){
-  parseFloat(n)
+function makeInt(a){
+  parseFloat(a)
   return n
 }
