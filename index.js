@@ -19,3 +19,13 @@ function inc(n){
   n++
   return n
 }
+//decrement
+function dec(n){
+  n--
+  return n
+}
+//make into integer
+function makeInt(n){
+  parseInt(n,10)
+  return n
+}
