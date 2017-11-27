@@ -25,7 +25,12 @@ function dec(n){
   return n
 }
 //make into integer
-function makeInt(a){
-  parseFloat(a)
-  return a
+function makeInt(n){
+  parseFloat(n)
+  return n
+}
+//floating-point
+function preserveDecimal(n){
+  parseFloat(n)
+  return n
 }
